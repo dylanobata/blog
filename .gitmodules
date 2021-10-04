@@ -1,0 +1,4 @@
+[submodule "dylanobatablog/public"]
+	path = dylanobatablog/public
+	url = https://github.com/dylanobata/dylanobata.github.io.git
+	branch = main
